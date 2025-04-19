@@ -17,6 +17,9 @@
 
 
 ## **How Eclipse Works**  
+
+![image](https://github.com/user-attachments/assets/d1af375b-6a44-4cf8-beaa-60ad95481e26)
+
 1. **Ask a Question** – Use text or voice to ask about a place.  
 2. **AI Processing** – Your query is processed using **Google’s Gemini AI**.  
 3. **Get Results** – The app provides:  

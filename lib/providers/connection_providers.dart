@@ -24,7 +24,7 @@ StateProvider<bool> isVoiceStopped = StateProvider((ref) => false);
 StateProvider<bool> isNewChat = StateProvider((ref) => false);
 StateProvider<CameraPosition?> lastGMapPositionProvider =
 StateProvider((ref) => null);
-StateProvider<String> apiKeyProvider  = StateProvider((ref) => 'AIzaSyDES4yyMiwpdhK2zPnQycGsy35aaREcq-M');
+StateProvider<String> apiKeyProvider  = StateProvider((ref) => '');
 
 setRigs(int rig, WidgetRef ref) {
   ref.read(rigsProvider.notifier).state = rig;
